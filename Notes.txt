@@ -1,0 +1,36 @@
+PDF Password Recovery By J~Net 2026
+https://github.com/jamieduk/PDF-Password-Recovery-By-J-Net-2026
+
+jnetai.com
+
+
+./setup.sh
+
+
+./start.sh "secret.pdf"
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+./start.sh "secret.pdf"
+PDF File Password Recovery BruteForce By (c) J~Net 2026
+Virtual Environment ready!
+
+==================================================
+ PDF Password Recovery (pikepdf)
+ Encrypted file : secret.pdf
+ Password list  : password-list.txt
+ Total passwords: 8
+ Output file    : recovered-decrypted.pdf
+==================================================
+
+[7/8] Trying: test...ainASSh0le!...
+
+==================================================
+ SUCCESS! Password found.
+==================================================
+ Password : test
+ Attempt  : 7 / 8
+ Output   : recovered-decrypted.pdf
+==================================================
+
+
